@@ -40,3 +40,4 @@ async function generate(params = {}) {
 }
 
 module.exports = generate
+console.log("updated")
